@@ -1,0 +1,53 @@
+
+cloud server environments
+-----------------------------------------------------------------------------
+
+	C@C:
+	
+		Grocery-List:
+		
+			GroceryListApi: running in docker container with nginx
+			gl-web-app: running in docker container
+			
+		Sandbox:
+		
+			?
+		
+		kvmac:
+		
+			kvmac-web-app: main Kodee McIntosh dev portfolio website
+	
+
+	Digital Ocean Droplet?:
+		
+
+kvmac repos
+-----------------------------------------------------------------------------
+
+	Github.com:
+
+		practice-server:  git@github.com/kvmac/practice-server.git
+		Search-Google: git@github.com/kvmac/Search-Google.git
+		doggo: git@github.com/kvmac/doggo.git
+		Junk: git@github.com/kvmac/Junk.git
+		guid: git@github.com/kvmac/guid.git
+
+
+	Gitlab.com:
+
+		Lex: git@gitlab.com:kvmac/Lex.git
+		MouseMove: git@gitlab.com:kvmac/MouseMove.git
+		KodeeCrypt: git@gitlab.com:kvmac/KodeeCrypt.git
+		kvmac-web-app: git@gitlab.com:kvmac/kvmac-web-app.git
+		Flashstack: git@gitlab.com:kvmac/Flashstack.git
+
+
+	Bitbucket.com:
+
+		GroceryList: git@bitbucket.org:Kvmac/grocerylist.git
+		KvGateway: git@bitbucket.org:Kvmac/kvgateway.git
+		KvAuth: git@bitbucket.org:Kvmac/kvauth.git
+
+
+-----------------------------------------------------------------------------
+
